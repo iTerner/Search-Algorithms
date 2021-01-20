@@ -1,0 +1,19 @@
+In order to run the algorithms you need to give some outputs
+
+- first of all, the algorithm name. you can choose between UCS, IDS, A*, IDA*
+
+- second, you need to give the start point position, for example 0,0
+
+- third, you need to give the start point position, for example 4,4
+
+- give the size of the gird. in this assignment, we assume the gird is a nXn matrix, for example 4
+
+- give the grid for the algorithm, where -1 represents a barrier. for example:
+
+1,1,1,1
+1,1,1,1
+1,1,1,1    this grid is a 4X4 grid (we entered 4 as the grid size)
+1,1,1,1
+
+
+- after you entered the grid you will recive the best path according to the algorithm and the length of the path
